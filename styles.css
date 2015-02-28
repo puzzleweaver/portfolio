@@ -2,6 +2,7 @@ body {
 	background-color: #bbbbbb;
 }
 h {
-	text-size: 20%;
+	font-size: 20%;
 	padding-right: 10%;
+	padding-top: 5%;
 }
